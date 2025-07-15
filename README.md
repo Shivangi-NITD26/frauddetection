@@ -1,5 +1,6 @@
 # frauddetection
-CREDIT CARD FRAUD DETECTION ML PROJECT Full dataset can be downloaded from:[Kaggle Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+CREDIT CARD FRAUD DETECTION ML PROJECT Full dataset can be downloaded from:[Kaggle Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection)  
+
 This project focuses on building a machine learning model to detect fraudulent credit card transactions specifically for the United States financial market, using a real-world dataset of US-based transactions.  
 
 # -Algorithms Used
